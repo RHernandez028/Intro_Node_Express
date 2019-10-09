@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RHernandez028/Intro_Node_Express/issues"
   },
-  "homepage": "https://github.com/RHernandez028/Intro_Node_Express#readme"
+  "homepage": "https://github.com/RHernandez028/Intro_Node_Express#readme",
+  "dependencies": {
+    "handlebars": "^4.4.3"
+  }
 }
